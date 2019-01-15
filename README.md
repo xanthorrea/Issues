@@ -55,7 +55,6 @@ Most high level instance scripts are decent seeing other BC server ones (but sti
 * Duel zone ([wiki](https://github.com/ValorenWoW/sunstrider-core/wiki/Duel-zone-(custom-feature)))
 * Pack58 item packs
 
-
 And much more. We've also developed some cool dev tools we'll probably share at a later point.
 
 [Wiki](https://github.com/ValorenWoW/sunstrider-core/wiki) (WIP, import in progress)
