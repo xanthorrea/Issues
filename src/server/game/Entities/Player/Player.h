@@ -270,21 +270,34 @@ struct DuelInfo
     time_t OutOfBoundsTime = 0;
 };
 
-enum Pack58Step
+enum BoostPackStep
 {
+    // Pack 58
     PACK58_STEP1,
     PACK58_MELEE,
     PACK58_HEAL,
     PACK58_TANK,
     PACK58_MAGIC,
+    // Pack 70
+    PACK70_STEP1,
+    PACK70_MELEE,
+    PACK70_HEAL,
+    PACK70_TANK,
+    PACK70_MAGIC
 };
 
-enum Pack58Type
+enum BoostPackType
 {
+    // Pack 58
     PACK58_TYPE_MELEE = 0,
     PACK58_TYPE_HEAL  = 1,
     PACK58_TYPE_TANK  = 2,
     PACK58_TYPE_MAGIC = 3,
+    // Pack 70
+    PACK70_TYPE_MELEE = 4,
+    PACK70_TYPE_HEAL  = 5,
+    PACK70_TYPE_TANK  = 6,
+    PACK70_TYPE_MAGIC = 7
 };
 
 struct Areas
