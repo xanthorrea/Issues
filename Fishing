@@ -1,0 +1,9 @@
+Description: Incorrect fish being looted in most areas.
+
+Current behaviour: The fish Raw Brilliant Smallfish and Raw Longjaw Mud Snapper are fished in all the places I tried, except pools.  
+This included high level zones, low level zones and mid level zones, open water, inland pools and lakes, puddles, rivers and seas.
+
+Expected behaviour: Different level fish should be available in different zones.  
+The current behaviour makes it IMPOSSIBLE to level cooking using fishing and you cannot loot raw Mithril Head Trout, Nightfin, etc.
+
+Steps to reproduce the problem: Fish in any zone higher than a starting zone.
